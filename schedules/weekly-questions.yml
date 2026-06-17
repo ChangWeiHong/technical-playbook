@@ -1,0 +1,13 @@
+questions:
+  - title: "[Research] RAG chunking strategy and retrieval quality"
+    area: "AI systems"
+    question: "How does chunking strategy affect RAG retrieval quality?"
+  - title: "[Research] Kafka consumer lag and backpressure"
+    area: "Distributed systems"
+    question: "How should a backend service handle consumer lag and backpressure?"
+  - title: "[Research] Read replicas and read-after-write consistency"
+    area: "Backend architecture"
+    question: "How should applications route reads after recent writes when using read replicas?"
+  - title: "[Research] Tenant-based sharding by organization ID"
+    area: "Data architecture"
+    question: "What are the trade-offs of horizontal sharding by organization ID?"
